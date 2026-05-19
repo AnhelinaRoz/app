@@ -307,7 +307,7 @@ export default function Home() {
             }}
           >
             <span className="hero-word inline-block">KRH</span>{' '}
-            <span className="hero-word inline-block">Partners</span>
+            <span className="hero-word inline-block">Partnerse</span>
           </h1>
 
           {/* Subtitle */}
